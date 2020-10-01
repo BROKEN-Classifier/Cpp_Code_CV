@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.27.29110:TargetPlatformVersion=10.0.18362.0:
 Debug|Win32|C:\Users\nicol\Documents\Cpp_Code_CV-master\TicTacToe_Interactive\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.27.29110:TargetPlatformVersion=10.0.18362.0:
+Debug|Win32|C:\Users\nicol\OneDrive\CPP_Workspace_Visual_Studio\TicTacToe_Interactive\|
+>>>>>>> 0cbd34bede97bc5f76feb813254d0115423d4e55

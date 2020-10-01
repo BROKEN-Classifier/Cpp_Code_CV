@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ProjectOutputs>C:\Users\nicol\Documents\Cpp_Code_CV-master\TicTacToe_Interactive\Debug\TicTacToe_Interactive.exe</ProjectOutputs>
   <ContentFiles></ContentFiles>
   <SatelliteDlls></SatelliteDlls>
   <NonRecipeFileRefs></NonRecipeFileRefs>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\nicol\OneDrive\CPP_Workspace_Visual_Studio\TicTacToe_Interactive\Debug\TicTacToe_Interactive.exe</ProjectOutputs>
+  <ContentFiles></ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+>>>>>>> 0cbd34bede97bc5f76feb813254d0115423d4e55
 </Project>
