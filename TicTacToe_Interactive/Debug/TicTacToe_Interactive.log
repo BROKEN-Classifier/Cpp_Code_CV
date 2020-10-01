@@ -1,0 +1,7 @@
+﻿  TicTacToeField.cpp
+  TicTacToeGame.cpp
+C:\Users\nicol\Documents\Cpp_Code_CV-master\TicTacToe_Interactive\TicTacToeGame.cpp(19,24): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\nicol\Documents\Cpp_Code_CV-master\TicTacToe_Interactive\TicTacToeGame.cpp(22,24): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+  TicTacToe_Interactive.cpp
+  Code wird generiert...
+  TicTacToe_Interactive.vcxproj -> C:\Users\nicol\Documents\Cpp_Code_CV-master\TicTacToe_Interactive\Debug\TicTacToe_Interactive.exe

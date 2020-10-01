@@ -21,15 +21,15 @@ int main(int argc, const char* argv[]) {
 			occerences[word]++;
 		}
 	}
-	priority_queue<pair<int, string>> faust_pq;
+	priority_queue<pair<int, string>> faustpq;
 	for (const auto& word : occerences) {
 		pair<int, string> pqEntry(word.second, word.first);
 		faust_pq.push(pqEntry);
 	}
 	
 	for (int i = 0; i < 20; i++) {
-		cout << faust_pq.top().second << ": " << faust_pq.top().first << endl;
-		faust_pq.pop();
+		cout << faustpq.top().second << ": " << faustpq.top().first << endl;
+		faustpq.pop();
 	}
 
 	file.close();
