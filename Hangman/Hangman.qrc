@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <RCC>
     <qresource prefix="/backgrounds">
         <file>Background0.png</file>
@@ -15,21 +14,3 @@
         <file>Background11.png</file>
     </qresource>
 </RCC>
-=======
-<RCC>
-    <qresource prefix="/backgrounds">
-        <file>Unbenannt0.png</file>
-        <file>Unbenannt1.png</file>
-        <file>Unbenannt2.png</file>
-        <file>Unbenannt3.png</file>
-        <file>Unbenannt4.png</file>
-        <file>Unbenannt5.png</file>
-        <file>Unbenannt6.png</file>
-        <file>Unbenannt7.png</file>
-        <file>Unbenannt8.png</file>
-        <file>Unbenannt9.png</file>
-        <file>Unbenannt10.png</file>
-        <file>Unbenannt11.png</file>
-    </qresource>
-</RCC>
->>>>>>> 0cbd34bede97bc5f76feb813254d0115423d4e55
